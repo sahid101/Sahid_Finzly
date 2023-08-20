@@ -5,9 +5,9 @@ package com.tka.ProblemStatement6;
  */
 public class Simple {
     public static void main(String[] args) {
-        Manager m = new Manager(1,"loru","CSE");
-        System.out.println(m.toString());
-        Developer d = new Developer(1,"loru","bhai lang");
-        System.out.println(d.toString());
+        Manager m = new Manager(1,"sahid","CSE");
+        System.out.println(m);
+        Developer d = new Developer(12,"sashi","java");
+        System.out.println(d);
     }
 }
