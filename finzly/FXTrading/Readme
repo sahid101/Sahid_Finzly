@@ -1,0 +1,9 @@
+The Foreign Exchange program is a Java project designed to perform currency conversion from
+United States Dollars (USD) to Indian Rupees (INR).
+This project provides a simple command-line interface for users to input an amount in USD and get
+the equivalent amount in INR based on the current exchange rate.
+
+Keypoint:
+Foreign exchange, also known as forex, is the conversion of one country's currency into another.
+The value of any particular currency is determined by market forces related to trade, investment, tourism, and geopolitical risk.
+Foreign exchange is handled globally between banks and all transactions fall under the auspice of the Bank for International Settlements (BIS).
